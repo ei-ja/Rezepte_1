@@ -1,7 +1,8 @@
 # Rezepte_1
 ## Deutsch
 ### Beschreibung
-Der Text kommt noch.
+Rezepte ist ein Programm, indem Sie all ihre Rezepte in einer Datenbank speichern,
+einsehen, bearbeiten oder löschen können.
 ### Download
 Führen Sie das Setup aus, das Sie hier erhalten: https://github.com/ei-ja/Rezepte_1/blob/main/Rezepte_Setup.exe
 Nun haben Sie die App erfolgreich installiert.
